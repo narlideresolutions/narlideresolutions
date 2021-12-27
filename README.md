@@ -10,7 +10,7 @@
 
 - 🎮 I have a Minecraft server. This is very lucrative 😋
 
-- 🌱 I’m currently learning Java
+- 🌱 I'm a strange person, I have a talent for everything.
   
 
 <br/>
