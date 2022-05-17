@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">My Name Is Eren El****.</div>  
+### <div align="center">My Name Is Eren.</div>  
   
 
 - 🔭 I’m currently working Freelance
@@ -41,7 +41,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alphanumeric35&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=beautybloodtr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
