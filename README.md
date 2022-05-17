@@ -6,9 +6,9 @@
 ### <div align="center">My Name Is Eren El****.</div>  
   
 
-- 🔭 I’m currently working Freelance ;D
+- 🔭 I’m currently working Freelance
 
-- 🎮 I have a Minecraft server. This is very lucrative 😋
+- 🎮 I have a Minecraft server.
 
 - 🌱 I'm a strange person, I have a talent for everything.
   
@@ -25,13 +25,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://instagram.com/alphanumeric35" target="_blank">
+<a href="https://instagram.com/beautybloodtr" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/alphanumeric35" target="_blank">
+<a href="https://github.com/beautybloodtr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-<a href="https://discord.gg/peydahoyuncu" target="_blank">
+<a href="https://discord.gg/mineking" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>  
 </div>  
