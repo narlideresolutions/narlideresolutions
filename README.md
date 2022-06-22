@@ -56,12 +56,6 @@ public abstract class Human {
 }
 
 
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://instagram.com/beautybloodtr" target="_blank">
