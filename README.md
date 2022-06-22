@@ -54,5 +54,3 @@
 ---
 
 </details>
-
-Discord: schaefer#0001
