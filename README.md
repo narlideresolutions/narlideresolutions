@@ -1,3 +1,9 @@
+<div align="center">
+
+<h1>Hi , I'm <a href="https://www.github.com/schaeferrr">schaefer</a>!</h1>
+</div>
+
+```java
   public class Schaefer extends Human implements Gamer, Developer {
 
 	@Override
@@ -54,6 +60,19 @@ public abstract class Human {
       this.experiences.addAll(experience);
   }
 }
+```
+
+<!--START_SECTION:waka-->
+
+
+
+
+<!--END_SECTION:waka-->
+<div align="center">
+	
+[![schaefer's GitHub stats](https://github-readme-stats.vercel.app/api?username=schaeferrr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/schaeferrr) 
+[![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schaeferrr&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/schaeferrr)
+
 
 
 ## Connect with me  
@@ -68,7 +87,8 @@ public abstract class Human {
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=beautybloodtr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=beautybloodtr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+	<div align="center"> ![Visitors](https://komarev.com/ghpvc/?username=beautybloodtr&color=blueviolet) </div>
 
 <br/>  
 
