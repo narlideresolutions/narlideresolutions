@@ -1,20 +1,59 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+  public class Schaefer extends Human implements Gamer, Developer {
+
+	@Override
+	public String getName() {
+		return "Furkan";
+	}
+	
+	@Override
+	public List<String> getAliases() {
+		return Arrays.asList("Schaefer", "My Name");
+	}
+
+        public Schaefer() {
+        super("Schaefer", "Earth");
+
+        this.addLanguage("Java", "Python", "Javascript", "Kotlin");
+        this.addExperience("2 Years+(java)", "1year+(python)", "2months+(kotlin)", "1 year (js)");
+     }
+   }
+
+	@Override
+	public String aboutme() {
+		return "I like to expose people lmao" +
+		"\n" + "I like to code Java";
+	}
+    
+	@Override
+	public void codingStuff() {
+		String[] learning = ["Java", "Node.js / Discord.js", "Python"];
+		String tryingTo = "Coding unique plugins/clients and apps.";
+	}
+	
+} 
+
+
+public abstract class Human {
+
+  @Getter private final String username;
+  @Getter private final String country;
+
+  private Set<String> languages = new HashSet<>();
+  private Set<String> experiences = new HashSet<>();
+
+  public Human(String username, String placeilive) {
+      this.name = username;
+      this.country = placeilive;
+  }
+
+  public void addLanguage(String... language) {
+      this.languages.addAll(language);
+  }
   
-
-### <div align="center">My Name Is Eren.</div>  
-  
-
-- 🔭 I’m currently working Freelance
-
-- 🎮 I have a Minecraft server.
-
-- 🌱 I'm a strange person, I have a talent for everything.
-  
-
-<br/>
-<div align="center">Always give your best never worry for results.</div>
+  public void addExperience(String... experience) {
+      this.experiences.addAll(experience);
+  }
+}
 
 
 
@@ -28,12 +67,6 @@
 <a href="https://instagram.com/beautybloodtr" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/beautybloodtr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<a href="https://discord.gg/mineking" target="_blank">
-<img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
