@@ -19,8 +19,7 @@
         public SomeInformation() {
         this.addLanguage("Java", "Javascript");
      }
-   }
-
+     
 	@Override
 	public String aboutme() {
 		return "I only working for money"
@@ -32,10 +31,7 @@
 		String learnMyServer = "MineKing Network";
 		String tryingTo = "I doin' what i want";
 	}
-	
-} 
-
-}
+   }
 ```
 
 <!--START_SECTION:waka-->
