@@ -8,7 +8,7 @@
 
 	@Override
 	public String getName() {
-		return "Alperen";
+		return "Hizbullah";
 	}
 	
 	@Override
@@ -22,7 +22,7 @@
      
 	@Override
 	public String aboutme() {
-		return "I only working for money"
+		return "nth"
 	}
     
 	@Override
