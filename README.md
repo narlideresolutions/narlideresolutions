@@ -49,12 +49,17 @@ public class BeautyBloodTR {
 
 <!--END_SECTION:waka-->
 <div align="center">
-	
-[![schaefer's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautybloodtr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/beautybloodtr) 
+<div align="center">
+
+[![beautybloodtr's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautybloodtr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/beautybloodtr)
+
 [![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beautybloodtr&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/beautybloodtr)
+
 ### Profile Visits 
 
 ![Visitors](https://komarev.com/ghpvc/?username=beautybloodtr&color=blueviolet)
+
+</div>
 ---
 
 </details>
