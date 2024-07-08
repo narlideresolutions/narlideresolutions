@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm <a href="https://www.github.com/beautybloodtr">MR. BB</a>!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&random=false&width=435&lines=Java+Killer;JavaScript+Killer;Project+Manager;Developer" alt="Typing SVG" /></a>
 </div>
 
 ```java
