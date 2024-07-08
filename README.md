@@ -3,34 +3,43 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&random=false&width=435&lines=Java+Killer;JavaScript+Killer;Project+Manager;Developer" alt="Typing SVG" /></a></div>
 
 ```java
-  public class BeautyBloodTR extends Human implements Gamer, JR. Developer {
+public class BeautyBloodTR {
 
-	@Override
-	public String getName() {
-		return "Alper";
-	}
-	
-	@Override
-	public List<String> getAliases() {
-		return Arrays.asList("BeautyBloodTR", "My Name");
-	}
+    private String name;
+    private List<String> aliases;
+    private List<String> languages;
+    private String aboutme;
 
-        public SomeInformation() {
-        this.addLanguage("Java", "Javascript");
-     }
-     
-	@Override
-	public String aboutme() {
-		return "nth"
-	}
-    
-	@Override
-	public void codingStuff() {
-		String[] learning = ["Java", "Discord.js"];
-		String learnMyServer = "MineKing Network";
-		String tryingTo = "I doin' what i want";
-	}
-   }
+    public BeautyBloodTR() {
+        this.name = "Alperen";
+        this.aliases = Arrays.asList("BeautyBloodTR", "My Name");
+        this.languages = Arrays.asList("Java", "JavaScript", "Linux", "Networking");
+        this.aboutme = "I must have told you everything you need to know about me :)";
+    }
+
+    public void codingStuff() {
+        List<String> learning = Arrays.asList("Rust", "An honorable man");
+        String myGameServer = "MineKing Network";
+        String tryingTo = "I do what I want";
+        String mySum = "Good, honorable, and proud work";
+    }
+
+    public String getName() {
+        return this.name;
+    }
+
+    public List<String> getAliases() {
+        return this.aliases;
+    }
+
+    public List<String> getLanguages() {
+        return this.languages;
+    }
+
+    public String aboutMe() {
+        return this.aboutme;
+    }
+}
 ```
 
 <!--START_SECTION:waka-->
