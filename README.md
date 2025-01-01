@@ -11,7 +11,7 @@ public class BeautyBloodTR {
     private String aboutme;
 
     public BeautyBloodTR() {
-        this.name = "Alperen";
+        this.name = "Ateş";
         this.aliases = Arrays.asList("BeautyBloodTR", "My Name");
         this.languages = Arrays.asList("Java", "JavaScript", "Linux", "Networking");
         this.aboutme = "I must have told you everything you need to know about me :)";
