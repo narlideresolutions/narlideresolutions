@@ -2,46 +2,21 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&random=false&width=435&lines=Java+Killer;JavaScript+Killer;Project+Manager;Developer" alt="Typing SVG" /></a></div>
 
-```java
-public class BeautyBloodTR {
-
-    private String name;
-    private List<String> aliases;
-    private List<String> languages;
-    private String aboutme;
-
-    public BeautyBloodTR() {
-        this.name = "Ateş";
-        this.aliases = Arrays.asList("BeautyBloodTR", "My Name");
-        this.languages = Arrays.asList("Java", "JavaScript", "Linux", "Networking");
-        this.aboutme = "I must have told you everything you need to know about me :)";
-    }
-
-    public void codingStuff() {
-        List<String> learning = Arrays.asList("Rust", "An honorable man");
-        String myGameServer = "MineKing Network";
-        String tryingTo = "I do what I want";
-        String mySum = "Good, honorable, and proud work";
-    }
-
-    public String getName() {
-        return this.name;
-    }
-
-    public List<String> getAliases() {
-        return this.aliases;
-    }
-
-    public List<String> getLanguages() {
-        return this.languages;
-    }
-
-    public String aboutMe() {
-        return this.aboutme;
-    }
-}
 ```
+narlideresolutions = {
+    name = "Ateş",
+    aliases = {"narlideresolutions", "My Name"},
+    languages = {"Java", "JavaScript", "Linux", "Lua", "Rust"},
+}
 
+function narlideresolutions:new(o)
+    o = o or {}
+    setmetatable(o, self)
+    self.__index = self
+    return o
+end
+
+```
 <!--START_SECTION:waka-->
 
 
