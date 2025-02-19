@@ -27,9 +27,9 @@ end
 <div align="center">
 
 
-[![beautybloodtr's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautybloodtr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/beautybloodtr)
+[![beautybloodtr's GitHub stats](https://github-readme-stats.vercel.app/api?username=narlideresolutions&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/narlideresolutions)
 
-[![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beautybloodtr&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/beautybloodtr)
+[![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narlideresolutions&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/narlideresolutions)
 
 ### Profile Visits 
 
