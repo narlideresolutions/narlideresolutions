@@ -5,16 +5,10 @@
 ```
 narlideresolutions = {
     name = "Ateş",
-    aliases = {"narlideresolutions", "My Name"},
-    languages = {"Java", "JavaScript", "Linux", "Lua", "Rust"},
+    aliases = {"narlideresolutions", name},
+    languages = {"Java", "JavaScript", "Lua", "Rust", "C#", "C++"},
+    skills = {"linux", "modern languages", "hosting provider", "frameworK developer", "teamwork"}
 }
-
-function narlideresolutions:new(o)
-    o = o or {}
-    setmetatable(o, self)
-    self.__index = self
-    return o
-end
 
 ```
 <!--START_SECTION:waka-->
